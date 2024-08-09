@@ -1,0 +1,19 @@
+yalm_file:
+ columns:
+  OrderNumber
+  SalesChannel
+  WarehouseCode
+  ProcuredDate
+  OrderDate
+  ShipDate
+  DeliveryDate
+  CurrencyCode
+  SalesTeamID
+  CustomerID
+  StoreID
+  ProductID
+  OrderQuantity
+  DiscountApplied
+  UnitCost
+  UnitPrice
+ separator: ','
